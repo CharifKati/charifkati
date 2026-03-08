@@ -1,7 +1,6 @@
 <h1 align="center">Charif Kati</h1>
 <p align="center">
   Software Engineering Student · SOC Analyst in Training · Agadir, Morocco<br/>
-  <a href="mailto:charifkati17@gmail.com">charifkati17@gmail.com</a> ·
   <a href="https://linkedin.com/in/charif-kati-8275501ba">LinkedIn</a>
 </p>
 
