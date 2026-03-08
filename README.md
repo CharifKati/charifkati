@@ -2,6 +2,7 @@
 <p align="center">
   Software Engineering Student · SOC Analyst in Training · Agadir, Morocco<br/>
   <a href="https://linkedin.com/in/charif-kati-8275501ba">LinkedIn</a>
+  ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=120&section=header&text=Charif%20Kati&fontSize=40&fontColor=00ff41&animation=fadeIn)
 </p>
 
 ---
