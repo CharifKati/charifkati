@@ -1,27 +1,63 @@
-<h1 align="center">Charif Kati</h1>
-<p align="center">
-  Software Engineering Student · SOC Analyst in Training · Agadir, Morocco<br/>
-  <a href="https://linkedin.com/in/charif-kati-8275501ba">LinkedIn</a>
-</p>
+```
+ ██████╗██╗  ██╗ █████╗ ██████╗ ██╗███████╗    ██╗  ██╗ █████╗ ████████╗██╗
+██╔════╝██║  ██║██╔══██╗██╔══██╗██║██╔════╝    ██║ ██╔╝██╔══██╗╚══██╔══╝██║
+██║     ███████║███████║██████╔╝██║█████╗      █████╔╝ ███████║   ██║   ██║
+██║     ██╔══██║██╔══██║██╔══██╗██║██╔══╝      ██╔═██╗ ██╔══██║   ██║   ██║
+╚██████╗██║  ██║██║  ██║██║  ██║██║██║         ██║  ██╗██║  ██║   ██║   ██║
+ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝         ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝
+```
+```bash
+$ whoami
+> charif-kati
+
+$ cat profile.txt
+> Cybersecurity Engineering Student @ Universiapolis, Agadir
+> CCNA certified | Google Cybersecurity Professional Certificate
+> Focus: Threat Detection · Active Directory Security · Incident Response
+> Status: Hunting for SOC Analyst N1 opportunities
+```
 
 ---
 
-4th year Computer Engineering student at Universiapolis. CCNA certified, Google Cybersecurity Professional Certificate holder. I learn by building — if I want to understand an attack, I simulate it in a lab first.
+## // PROJECTS
+```bash
+$ ls -la ~/labs/
+```
 
-Currently open to **SOC Analyst N1** internship or entry-level opportunities.
+**[corp-local-soc-lab](https://github.com/charifkati/corp-local-soc-lab)**
+```
+3-VM environment: Windows Server 2022 + Kali Linux + Ubuntu (Splunk)
+Simulated AD attacks mapped to MITRE ATT&CK framework
+Custom SPL rules --> uncovered 2 blind spots in default Windows audit policy
+Output: structured incident reports with forensic timelines
+```
+
+**[plantdoc-vision](https://github.com/charifkati/plantdoc-vision)**
+```
+MobileNetV2 plant disease classifier @ 99.6% accuracy
+FastAPI backend with rate limiting + DoS mitigation + input validation
+```
 
 ---
 
-## Projects
-
-**[corp-local-soc-lab](https://github.com/charifkati/corp-local-soc-lab)** — Personal SOC lab across 3 VMs (Windows Server 2022, Kali Linux, Ubuntu + Splunk). Simulated Active Directory attacks mapped to MITRE ATT&CK, wrote SPL detection rules that exposed two blind spots in the default Windows audit policy, and produced structured incident reports.
-
-**[plantdoc-vision](https://github.com/charifkati/plantdoc-vision)** — Plant disease detection with MobileNetV2 (99.6% accuracy) behind a secure FastAPI backend with rate limiting and DoS mitigation.
+## // SKILLS
+```bash
+$ cat skills.json
+```
+```json
+{
+  "security": ["Splunk", "MITRE ATT&CK", "Wireshark", "Nmap", "SPL", "Active Directory"],
+  "networking": ["TCP/IP", "VLANs", "Routing & Switching", "CCNA"],
+  "dev": ["Python", "FastAPI", "Bash"],
+  "languages": ["Arabic", "French", "English"]
+}
+```
 
 ---
 
-## Skills
-
-| Security | Networking | Dev |
-|---|---|---|
-| Splunk, MITRE ATT&CK, Wireshark, Nmap, SPL, Active Directory | TCP/IP, VLANs, Routing & Switching (CCNA) | Python, FastAPI, Bash |
+## // CONTACT
+```bash
+$ cat contact.txt
+> charifkati17@gmail.com
+> linkedin.com/in/charif-kati-8275501ba
+```
