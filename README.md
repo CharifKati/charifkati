@@ -6,7 +6,7 @@
 
 ---
 
-4th year Computer Engineering student at Universiapolis. CCNA certified, Google Cybersecurity Professional Certificate holder. I learn by building — if I want to understand an attack, I simulate it in a lab first.
+4th year Computer Engineering student at Universiapolis. CCNA certified, Google Cybersecurity Professional Certificate holder. I learn by building, if I want to understand an attack, I simulate it in a lab first.
 
 Currently open to **SOC Analyst N1** internship or entry-level opportunities.
 
