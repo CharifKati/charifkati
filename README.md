@@ -7,8 +7,7 @@
 ---
 
 4th year Software Engineering student at Universiapolis, Agadir. Completed CCNA coursework, currently preparing for CompTIA Security+. 
-I am building toward a career in cybersecurity with a focus on threat detection and incident response.
-My approach is hands-on: if I want to understand an attack, I build a lab and simulate it myself.
+building toward a career in cybersecurity with a focus on threat detection and incident response.
 
 Currently open to **SOC Analyst N1** internship or entry-level opportunities.
 
